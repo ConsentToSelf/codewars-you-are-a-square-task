@@ -1,0 +1,1 @@
+# codewars-you-are-a-square-task
